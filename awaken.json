@@ -1,17 +1,22 @@
 {
   "username": "QngDuc",
-  "layout": "default",
-  "theme": "nier",
-  "title": "auto",
-  "activity": "arise",
+  "layout": "bento_compact",
+  "theme": "infernal",
+  "title": "yolo",
+  "activity": "raid",
   "icons": "brand",
   "motion": "full",
   "timezone": "Asia/Saigon",
   "arsenal": [
     "figma",
+    "wix",
+    "pixlr",
+    "googlefonts",
+    "iconify",
     "diagramsdotnet",
     "photopea",
-    "fontawesome",
-    "wix"
+    "pinterest",
+    "unsplash",
+    "fontawesome"
   ]
 }
