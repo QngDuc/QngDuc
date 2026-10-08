@@ -3,13 +3,13 @@
   "level": 6,
   "overall": "A",
   "overallPercentile": 0.882134161348413,
-  "layout": "default",
+  "layout": "bento_compact",
   "class": {
     "name": "Blade Master",
     "element": "Lightning",
     "from": "TypeScript"
   },
-  "title": "Veteran",
+  "title": "YOLO",
   "stats": [
     {
       "code": "STR",
@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 15
+      "value": 16
     },
     {
       "id": "early-bird",
@@ -194,5 +194,5 @@
       "contribute"
     ]
   },
-  "syncedAt": "2026-10-08T15:09:31.525Z"
+  "syncedAt": "2026-10-08T15:16:47.627Z"
 }
