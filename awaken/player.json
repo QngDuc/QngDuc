@@ -48,7 +48,15 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-09T21:38:30.898Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -148,17 +156,17 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 3
+      "value": 6
     },
     {
       "id": "boss-slayer",
@@ -172,12 +180,17 @@
     },
     {
       "id": "collector",
-      "tier": 0,
-      "value": 2
+      "tier": 1,
+      "value": 4
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-09",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-08",
         "cleared": 2,
@@ -189,16 +202,18 @@
         "total": 3
       }
     ],
-    "perfectDays": 0,
-    "run": 0,
-    "bestRun": 0,
-    "questsDone": 3,
+    "perfectDays": 1,
+    "run": 1,
+    "bestRun": 1,
+    "questsDone": 6,
     "bosses": [],
     "escapes": 1,
     "kinds": [
       "contribute",
-      "three"
+      "three",
+      "average",
+      "streak"
     ]
   },
-  "syncedAt": "2026-10-08T22:01:30.846Z"
+  "syncedAt": "2026-10-09T21:38:30.898Z"
 }
