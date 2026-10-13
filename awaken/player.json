@@ -2,7 +2,7 @@
   "login": "QngDuc",
   "level": 6,
   "overall": "A",
-  "overallPercentile": 0.8821773869565079,
+  "overallPercentile": 0.8822204138123679,
   "layout": "bento_compact",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 214,
+      "value": 215,
       "rank": "B",
-      "percentile": 0.828094042200619
+      "percentile": 0.8288576836466038
     },
     {
       "code": "AGI",
@@ -76,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 214
+      "value": 215
     },
     {
       "id": "unbroken",
@@ -86,7 +86,7 @@
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 16
+      "value": 15
     },
     {
       "id": "early-bird",
@@ -121,7 +121,7 @@
     {
       "id": "polyglot",
       "tier": 2,
-      "value": 7
+      "value": 6
     },
     {
       "id": "star-collector",
@@ -151,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 51
+      "value": 52
     },
     {
       "id": "daily-grinder",
@@ -166,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 6
+      "value": 7
     },
     {
       "id": "boss-slayer",
@@ -176,7 +176,7 @@
     {
       "id": "escape-artist",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "collector",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-13",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-12",
         "cleared": 0,
@@ -220,9 +225,9 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 6,
+    "questsDone": 7,
     "bosses": [],
-    "escapes": 1,
+    "escapes": 2,
     "kinds": [
       "contribute",
       "three",
@@ -230,5 +235,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-10-12T23:36:04.460Z"
+  "syncedAt": "2026-10-13T21:48:58.339Z"
 }
