@@ -2,7 +2,7 @@
   "login": "QngDuc",
   "level": 6,
   "overall": "A",
-  "overallPercentile": 0.8849755214277932,
+  "overallPercentile": 0.8867687779069874,
   "layout": "bento_compact",
   "class": {
     "name": "Blade Master",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 224,
+      "value": 230,
       "rank": "B",
-      "percentile": 0.8354831729569094
+      "percentile": 0.839666414444509
     },
     {
       "code": "AGI",
-      "value": 4,
+      "value": 5,
       "rank": "C",
-      "percentile": 0.7264678925031302
+      "percentile": 0.7471618518819576
     },
     {
       "code": "INT",
@@ -61,22 +61,22 @@
     {
       "id": "pull-shark",
       "tier": 1,
-      "value": 4
+      "value": 5
     },
     {
       "id": "quickdraw",
       "tier": 1,
-      "value": 2
+      "value": 3
     },
     {
       "id": "yolo",
       "tier": 1,
-      "value": 4
+      "value": 5
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 224
+      "value": 230
     },
     {
       "id": "unbroken",
@@ -96,7 +96,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 32
+      "value": 34
     },
     {
       "id": "gate-opener",
@@ -151,12 +151,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 56
+      "value": 57
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 2
+      "value": 3
     },
     {
       "id": "perfect-week",
@@ -166,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 15
+      "value": 18
     },
     {
       "id": "boss-slayer",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-18",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-10-17",
         "cleared": 2,
@@ -242,10 +247,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 2,
-    "run": 0,
+    "perfectDays": 3,
+    "run": 1,
     "bestRun": 1,
-    "questsDone": 15,
+    "questsDone": 18,
     "bosses": [
       "2026-10-12"
     ],
@@ -258,5 +263,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-17T19:18:54.736Z"
+  "syncedAt": "2026-10-18T19:24:20.503Z"
 }
