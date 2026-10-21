@@ -2,7 +2,7 @@
   "login": "QngDuc",
   "level": 6,
   "overall": "A",
-  "overallPercentile": 0.8867687779069874,
+  "overallPercentile": 0.8894351204629506,
   "layout": "bento_compact",
   "class": {
     "name": "Blade Master",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 230,
+      "value": 234,
       "rank": "B",
-      "percentile": 0.839666414444509
+      "percentile": 0.8423580124252844
     },
     {
       "code": "AGI",
-      "value": 5,
-      "rank": "C",
-      "percentile": 0.7471618518819576
+      "value": 7,
+      "rank": "B",
+      "percentile": 0.7814694279652441
     },
     {
       "code": "INT",
@@ -50,6 +50,27 @@
   ],
   "events": [
     {
+      "kind": "stat",
+      "subject": "AGI",
+      "from": "C",
+      "to": "B",
+      "at": "2026-10-21T20:35:22.516Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "quickdraw",
+      "from": "1",
+      "to": "2",
+      "at": "2026-10-21T20:35:22.516Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "escape-artist",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-21T20:35:22.516Z"
+    },
+    {
       "kind": "achievement",
       "subject": "boss-slayer",
       "from": "0",
@@ -61,22 +82,22 @@
     {
       "id": "pull-shark",
       "tier": 1,
-      "value": 5
+      "value": 7
     },
     {
       "id": "quickdraw",
-      "tier": 1,
-      "value": 3
+      "tier": 2,
+      "value": 5
     },
     {
       "id": "yolo",
       "tier": 1,
-      "value": 5
+      "value": 7
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 230
+      "value": 234
     },
     {
       "id": "unbroken",
@@ -86,7 +107,7 @@
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 15
+      "value": 14
     },
     {
       "id": "early-bird",
@@ -151,7 +172,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 57
+      "value": 58
     },
     {
       "id": "daily-grinder",
@@ -166,7 +187,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 21
+      "value": 22
     },
     {
       "id": "boss-slayer",
@@ -175,8 +196,8 @@
     },
     {
       "id": "escape-artist",
-      "tier": 0,
-      "value": 2
+      "tier": 1,
+      "value": 3
     },
     {
       "id": "collector",
@@ -186,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-21",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-20",
         "cleared": 0,
@@ -260,11 +286,11 @@
     "perfectDays": 4,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 21,
+    "questsDone": 22,
     "bosses": [
       "2026-10-12"
     ],
-    "escapes": 2,
+    "escapes": 3,
     "kinds": [
       "contribute",
       "three",
@@ -273,5 +299,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-20T20:32:23.093Z"
+  "syncedAt": "2026-10-21T20:35:22.516Z"
 }
