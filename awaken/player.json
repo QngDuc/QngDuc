@@ -1,8 +1,8 @@
 {
   "login": "QngDuc",
-  "level": 6,
+  "level": 7,
   "overall": "A",
-  "overallPercentile": 0.8897423509312082,
+  "overallPercentile": 0.889894059383111,
   "layout": "bento_compact",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 238,
+      "value": 240,
       "rank": "B",
-      "percentile": 0.8449754518995264
+      "percentile": 0.8462572819030647
     },
     {
       "code": "AGI",
@@ -50,25 +50,11 @@
   ],
   "events": [
     {
-      "kind": "stat",
-      "subject": "AGI",
-      "from": "C",
-      "to": "B",
-      "at": "2026-10-21T20:35:22.516Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "quickdraw",
-      "from": "1",
-      "to": "2",
-      "at": "2026-10-21T20:35:22.516Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "escape-artist",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-21T20:35:22.516Z"
+      "kind": "level",
+      "subject": "Level",
+      "from": "6",
+      "to": "7",
+      "at": "2026-10-28T21:38:06.223Z"
     }
   ],
   "achievements": [
@@ -90,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 238
+      "value": 240
     },
     {
       "id": "unbroken",
@@ -165,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 59
+      "value": 60
     },
     {
       "id": "daily-grinder",
@@ -180,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 28
+      "value": 30
     },
     {
       "id": "boss-slayer",
@@ -200,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-28",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-27",
         "cleared": 3,
@@ -307,9 +298,9 @@
       }
     ],
     "perfectDays": 5,
-    "run": 1,
+    "run": 0,
     "bestRun": 2,
-    "questsDone": 28,
+    "questsDone": 30,
     "bosses": [
       "2026-10-12"
     ],
@@ -322,5 +313,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-10-27T21:15:32.532Z"
+  "syncedAt": "2026-10-28T21:38:06.223Z"
 }
