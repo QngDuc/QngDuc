@@ -2,7 +2,7 @@
   "login": "QngDuc",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.8931793028377455,
+  "overallPercentile": 0.8933029391691468,
   "layout": "bento_compact",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 247,
+      "value": 248,
       "rank": "B",
-      "percentile": 0.850608448376326
+      "percentile": 0.8512134238409456
     },
     {
       "code": "AGI",
@@ -83,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 247
+      "value": 248
     },
     {
       "id": "unbroken",
@@ -103,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 32
+      "value": 31
     },
     {
       "id": "gate-opener",
@@ -148,7 +148,7 @@
     {
       "id": "veteran",
       "tier": 2,
-      "value": 3
+      "value": 4
     },
     {
       "id": "berserker",
@@ -158,7 +158,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 61
+      "value": 62
     },
     {
       "id": "daily-grinder",
@@ -173,12 +173,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 39
+      "value": 41
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 1
+      "value": 2
     },
     {
       "id": "escape-artist",
@@ -193,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-13",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-12",
         "cleared": 1,
@@ -382,8 +387,9 @@
     "perfectDays": 5,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 39,
+    "questsDone": 41,
     "bosses": [
+      "2026-11-09",
       "2026-10-12"
     ],
     "escapes": 6,
@@ -397,5 +403,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-11-12T22:41:41.572Z"
+  "syncedAt": "2026-11-13T22:33:21.292Z"
 }
