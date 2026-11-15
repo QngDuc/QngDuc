@@ -2,7 +2,7 @@
   "login": "QngDuc",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.8933029391691468,
+  "overallPercentile": 0.8936709146630832,
   "layout": "bento_compact",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 248,
+      "value": 251,
       "rank": "B",
-      "percentile": 0.8512134238409456
+      "percentile": 0.8530042959329189
     },
     {
       "code": "AGI",
@@ -51,17 +51,17 @@
   "events": [
     {
       "kind": "achievement",
+      "subject": "daily-grinder",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-15T21:43:33.493Z"
+    },
+    {
+      "kind": "achievement",
       "subject": "polyglot",
       "from": "2",
       "to": "3",
       "at": "2026-11-10T22:20:00.946Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "1",
-      "to": "2",
-      "at": "2026-11-08T21:05:44.130Z"
     }
   ],
   "achievements": [
@@ -83,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 248
+      "value": 251
     },
     {
       "id": "unbroken",
@@ -103,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 31
+      "value": 32
     },
     {
       "id": "gate-opener",
@@ -158,12 +158,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 62
+      "value": 63
     },
     {
       "id": "daily-grinder",
-      "tier": 0,
-      "value": 6
+      "tier": 1,
+      "value": 7
     },
     {
       "id": "perfect-week",
@@ -173,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 44
+      "value": 47
     },
     {
       "id": "boss-slayer",
@@ -193,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-15",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-14",
         "cleared": 3,
@@ -389,10 +394,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 6,
-    "run": 1,
+    "perfectDays": 7,
+    "run": 2,
     "bestRun": 2,
-    "questsDone": 44,
+    "questsDone": 47,
     "bosses": [
       "2026-11-09",
       "2026-10-12"
@@ -408,5 +413,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-11-14T21:24:53.692Z"
+  "syncedAt": "2026-11-15T21:43:33.493Z"
 }
