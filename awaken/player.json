@@ -55,13 +55,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-11-15T21:43:33.493Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "polyglot",
-      "from": "2",
-      "to": "3",
-      "at": "2026-11-10T22:20:00.946Z"
     }
   ],
   "achievements": [
@@ -193,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-17",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-16",
         "cleared": 2,
@@ -418,5 +416,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-11-17T00:46:18.918Z"
+  "syncedAt": "2026-11-17T23:49:40.984Z"
 }
