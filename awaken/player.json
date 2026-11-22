@@ -48,15 +48,7 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "daily-grinder",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-15T21:43:33.493Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -151,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 63
+      "value": 62
     },
     {
       "id": "daily-grinder",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-22",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-21",
         "cleared": 0,
@@ -436,5 +433,5 @@
       "commit"
     ]
   },
-  "syncedAt": "2026-11-21T22:09:47.764Z"
+  "syncedAt": "2026-11-22T22:25:55.092Z"
 }
